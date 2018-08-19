@@ -1,0 +1,51 @@
+
+
+	{
+	"basicdetails":{
+		"image":"Tulips.jpg",
+		"name":"k.naga sai tanuja",
+		"email":"k.v.koteswararao15@gmail.com",
+		"phone":"1234567890",
+		"address":"17-2,guntur"
+	},
+	"education":[
+		{
+			"course":"B.tech(cse)",
+			"college":"vignan nirula institute of technology",
+			"percentage":"70%"
+		},
+		{
+			"course":"intermediate",
+			"college":"sri chaitanya",
+			"percentage":"84%"
+		},
+		{
+			"course":"schooling(ssc)",
+			"college":"bhashyam",
+			"percentage":"70%"
+		}
+	],
+	"skills":[
+		{
+			"name":"operating system",
+			"value":"Windows,Linux,MAC"
+		},
+		{
+            "name":"Programming Languages",
+            "value":"C,C++,Java,Python"
+		}
+	],
+	"carrier":{
+   		"ca":"l am using my knowledge and skills towards the growth of our organisation and i obey the organisation rules and table my responsibility end of my working days."
+	},
+	"Achievements":[
+       "I got first prize in chess compitition in my college.",
+       "I got second prize carroms compitition in my schooling.",
+       "I got first prize in power point presentation."
+	],
+	"Description":
+	{
+		"des":"Here by I want to mention all details from above mentioned data are my total self details."
+	}
+
+}
